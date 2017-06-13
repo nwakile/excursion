@@ -1,0 +1,19 @@
+.judo h1{font-size: 50px;
+   font-weight: normal;
+   font-family: Verdana;
+   color: white;
+   text-align: center;
+
+}
+.judo p{font-size: 16px;
+  color: aquamarine;
+  background-color: black;
+  text-align: center;
+
+}
+
+.judo h2{font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+
+}
